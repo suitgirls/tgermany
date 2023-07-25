@@ -1,5 +1,6 @@
 body {
-    color:white;
+    color:white; font-family: 'Merriweather', serif;
+    font-family: 'Tenali Ramakrishna', sans-serif;
     background-color:black;
 }
 h1 {color: white; font-family: 'Merriweather', serif;
