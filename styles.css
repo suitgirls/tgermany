@@ -8,9 +8,12 @@ h1 {color: white; font-family: 'Merriweather', serif;
 h2 {color: white; font-family: 'Merriweather', serif;
     font-family: 'Tenali Ramakrishna', sans-serif;}
      
-nav {background-color: black;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: black;}
 
 nav a {color:white}
 nav{color:white}
 
-nav a:hover {background-color: pink;}
+nav a:hover {background-color: palevioletred;}
