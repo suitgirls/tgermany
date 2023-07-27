@@ -11,9 +11,17 @@ h2 {color: white; font-family: 'Merriweather', serif;
 nav {
     padding: 10px;
     margin-bottom: 30px;
-    background-color: black;}
+    background-color: palevioletred;}
 
 nav a {color:white}
 nav{color:white}
 
-nav a:hover {background-color: palevioletred;}
+nav a:hover {background-color: pink;}
+
+div{
+    border: 10px solid pink;
+    margin: 30px;
+    padding: 50px;
+    background-color: palevioletred;
+    border-radius: 25px;
+}
